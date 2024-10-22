@@ -1,0 +1,52 @@
+nav {
+    display: flex;
+}
+
+/* navbar home link */
+.home-logo {
+    margin-right: auto;
+    padding: 15px 0;
+}
+
+/* navbar links */
+.links {
+    margin: 0 5px;
+    padding: 15px 0;
+}
+
+body {
+    min-height: 100vh;
+
+}
+
+/* flexbox container */
+.characters-container  {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    
+}
+
+/* flex items */
+.characters-row, .flex-item-characters {
+    text-align: center;
+    flex: 1;
+    max-width: 550px;
+    
+}
+
+/* adjustments to paragraph text padding under character name */
+.text-character {
+    padding-left: 24px;
+    padding-right: 24px;
+    
+}
+
+.images-characters {
+    width: auto;
+    height: 200px;
+    margin-top: 25px;
+    border-radius: 4px;
+}
+
+
