@@ -49,4 +49,13 @@ body {
     border-radius: 4px;
 }
 
+.hero-image-characters {
+    width: 100%;
+    height: auto;
+}
 
+@media screen and (max-width: 600px) {
+    .characters-container {
+        display: inline-block;
+    }
+}
