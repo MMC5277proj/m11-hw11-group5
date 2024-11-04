@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+
+    body{
+        font-family: 'Roboto', sans-serif;
+        margin: 0;
+        font-size: 1.3rem;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        background-image: url('images/page-background.jpg');
+    }
+    
+    .text-block{
+       width: 300px;
+       border: 15px white;
+       padding: 50px;
+       margin: 20px;
+
+    }
