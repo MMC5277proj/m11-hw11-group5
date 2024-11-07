@@ -144,3 +144,18 @@ body {
     padding: 24px 0;
     color: var(--white);
   }
+
+  .body__plot{
+    background: no-repeat url(images/Background_Plot.jpg) content-box center;
+  }
+  .main__plot{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  .section__plot{
+    background-color: rgba(255, 255, 255, 0.25);
+    width: 75%;
+  }
+
