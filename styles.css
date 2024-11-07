@@ -193,7 +193,7 @@ body {
 /* purple was hard to read so went to white */
 .h1-class-characters {
   color: white;
-  margin-left: 30px;
+  margin-left: 32px;
   animation: light-text 5s 750ms linear infinite;
 }
 
