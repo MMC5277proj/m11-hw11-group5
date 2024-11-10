@@ -5,6 +5,12 @@
   --secondary-color: #8f06b1;
   --text-color: #410464;
 }
+  --white: #FFFFFF;
+  --gray: #929292;
+  --main-color: #323232;
+  --secondary-color: #8f06b1;
+  --text-color: #410464;
+}
 
 *{
   margin: 0;
