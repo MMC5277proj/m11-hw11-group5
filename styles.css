@@ -95,6 +95,7 @@ body {
   .main-content {
     padding: 48px 96px;
     margin: 0 48px;
+    border-radius: 10px;
     background-color: var(--gray);
   }
   
